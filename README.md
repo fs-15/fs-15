@@ -18,5 +18,5 @@ Apart from coding, I also maintain a blog - you can find my articles, twists and
 
 ## &#x1f4c8; Github Performance Overall
 
-![github stats]
+![github stats](https://github-readme-stats.vercel.app/api?username=riochandra1212&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs-15&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
