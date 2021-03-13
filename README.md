@@ -10,18 +10,14 @@ My name is Fanni Syarifudin. I'm from Indonesia, living in West Jakarta.
 
 Apart from coding, I also maintain a blog - you can find my articles on my Tumblr at [bedebah-kata](https://bedebah-kata.tumblr).
 
-### About
-- 📫 How to reach me: fsyarifudin15@gmail.com
+## About
 - 🏠 I'm live in West Jakarta
 - 🏫 I’m currently learning [Nahdlatul Ulama Indonesian University](https://unusia.ac.id)
 - 🏬 Informal learning on [Pesantren Ekonomi Darul Uchwah](https://hobindonesia.id)
 - ⚡ Fun fact: Hobbies Reading and Coding
 
-## Github Performance Overall
+## &#x1f4c8; Github Performance Overall
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=fs-15&show_icons=true)
-
-## My Github Most Used Language
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs-15&theme=vue">
 
