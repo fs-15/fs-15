@@ -8,16 +8,15 @@ My name is Fanni Syarifudin. I'm from Indonesia, living in West Jakarta.
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my Tumblr at [bedebah-kata](https://bedebah-kata.tumblr).
+Apart from coding, I also maintain a blog - you can find my articles, twists and notes in it on my Tumblr at [bedebah-kata](https://bedebah-kata.tumblr) See you on Tumblr.
 
 ## About
 - 🏠 I'm live in West Jakarta
-- 🏫 I’m currently learning [Nahdlatul Ulama Indonesian University](https://unusia.ac.id)
-- 🏬 Informal learning on [Pesantren Ekonomi Darul Uchwah](https://hobindonesia.id)
+- 🏫 I’m currently learning at [Nahdlatul Ulama Indonesian University](https://unusia.ac.id)
+- 🏬 And informal learning at [Pesantren Ekonomi Darul Uchwah](https://hobindonesia.id)
 - ⚡ Fun fact: Hobbies Reading and Coding
 
 ## &#x1f4c8; Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=fs-15&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs-15&theme=vue">
-
+![github stats](https://github-readme-stats.vercel.app/api?username=fs-15&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21")
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs-15&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
