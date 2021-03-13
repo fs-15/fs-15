@@ -8,7 +8,7 @@ My name is Fanni Syarifudin. I'm from Indonesia, living in West Jakarta.
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles, twists and notes in it on my Tumblr at [bedebah-kata](https://bedebah-kata.tumblr) See you on Tumblr.
+Apart from coding, I also maintain a blog - you can find my articles, twists and notes in it on my Tumblr at [bedebah-kata](https://bedebah-kata.tumblr.com).
 
 ## About
 - 🏠 I'm live in West Jakarta
