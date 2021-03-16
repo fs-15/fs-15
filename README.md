@@ -27,3 +27,4 @@ Apart from coding, I also maintain a blog - you can find my articles, twists and
 ![github stats](https://github-readme-stats.vercel.app/api?username=fs-15&show_icons=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs-15&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+![Visitor Count](https://profile-counter.glitch.me/fs-15/count.svg)
