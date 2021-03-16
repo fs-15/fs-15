@@ -27,4 +27,13 @@ Apart from coding, I also maintain a blog - you can find my articles, twists and
 ![github stats](https://github-readme-stats.vercel.app/api?username=fs-15&show_icons=true)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fs-15&html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-![Visitor Count](https://profile-counter.glitch.me/fs-15/count.svg)
+
+
+<a href="https://github.com/fs-15/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=fs-15">
+</a>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/fs-15/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
